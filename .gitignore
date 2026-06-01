@@ -1,3 +1,5 @@
 .conda
 /dataset
 .DS_Store
+*.pt
+*.zip
