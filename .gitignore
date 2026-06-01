@@ -3,3 +3,4 @@
 .DS_Store
 *.pt
 *.zip
+!classifier_19.pt
